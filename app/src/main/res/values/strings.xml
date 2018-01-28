@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokladnaU12</string>
+    <string name="platby_nadpis">Události a platby:</string>
+    <string name="cena">Cena:</string>
+    <string name="dluh_pokladne">Dluh třídní pokladně</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+    <string name="action_settings">Nastavení</string>
+</resources>
